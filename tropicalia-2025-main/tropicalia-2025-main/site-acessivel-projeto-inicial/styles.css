@@ -147,12 +147,12 @@ h2 {
     z-index: 1000;
 }
 
-.rotação-botao{
+.rotacao-botao{
     transform: rotate(-90deg);
     transform-origin: right center;
 }
 
-.opções-acessibilidade{
+.opcoes-acessibilidade{
     margin-top: 10px;
     display: flex;
     flex-direction: column;
